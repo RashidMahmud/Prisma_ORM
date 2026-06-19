@@ -8,8 +8,8 @@ async function main() {
       email: "alice@prisma.io",
       posts: {
         create: {
-          title: "Hello World",
-          content: "This is my first post!",
+          title: "Prisma is awesome",
+          content: "This is my first post using Prisma!",
           published: true,
         },
       },
